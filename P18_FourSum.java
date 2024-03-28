@@ -1,3 +1,4 @@
+
 /**
  * 18. 4Sum
  * https://leetcode.com/problems/4sum/
@@ -7,9 +8,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class FourSum {
+public class P18_FourSum {
     public static void main(String[] args) throws Exception {
-        var obj = new FourSum();
+        var obj = new P18_FourSum();
         int[] input = { 1000000000, 1000000000, 1000000000, 1000000000 };
         System.out.println(obj.fourSum(input, -294967296));
     }

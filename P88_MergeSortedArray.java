@@ -6,9 +6,9 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-class MergeSortedArray {
+class P88_MergeSortedArray {
     public static void main(String[] args) throws Exception {
-        var obj = new MergeSortedArray();
+        var obj = new P88_MergeSortedArray();
         int[] nums1 = { 4, 5, 6, 0, 0, 0 };
         int m = 3;
         int[] nums2 = { 1, 2, 3 };
