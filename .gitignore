@@ -1,3 +1,6 @@
+# Poor solutions that still need work
+trapping_rain_water.py
+
 # Compiled class file
 *.class
 bin/

@@ -3,6 +3,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * https://leetcode.com/problems/3sum/
+ */
 public class ThreeSum {
     public static void main(String[] args) throws Exception {
         var obj = new ThreeSum();
