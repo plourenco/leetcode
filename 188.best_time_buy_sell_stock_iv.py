@@ -1,6 +1,6 @@
 """
 123. Best Time to Buy and Sell Stock IV
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
 """
 from typing import List
 

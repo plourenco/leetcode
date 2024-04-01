@@ -1,6 +1,6 @@
 """
 123. Best Time to Buy and Sell Stock III
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
 
 Bonus follow-up: Find the prices for each transaction
 """

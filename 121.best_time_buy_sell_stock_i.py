@@ -1,6 +1,6 @@
 """
 121. Best Time to Buy and Sell Stock I
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock-i/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-i
 """
 from typing import List
 

@@ -1,7 +1,7 @@
 
 /**
  * 18. 4Sum
- * https://leetcode.com/problems/4sum/
+ * https://leetcode.com/problems/4sum
  */
 import java.math.BigInteger;
 import java.util.ArrayList;

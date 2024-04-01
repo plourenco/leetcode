@@ -1,7 +1,7 @@
 
 /**
  * 15. 3Sum
- * https://leetcode.com/problems/3sum/
+ * https://leetcode.com/problems/3sum
  */
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 
 class P15_ThreeSum {
     public static void main(String[] args) throws Exception {
-        var obj = new ThreeSum();
+        var obj = new P15_ThreeSum();
         // int[] input = { 1, -1, -1, 0 };
         // int[] input = { 3, 0, -2, -1, 1, 2 };
         int[] input = { 1, -1, -1, 0 };
